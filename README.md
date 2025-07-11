@@ -1,7 +1,7 @@
 # Was mache ich nach dem ich Datei in Nano bearbeitet habe?
 ## git add 'Dateiname'
-### Gib die änderung weiter
+### Gib die Änderung weiter
 ## git commit -m "Kommentar"
-### gib der Änderung inen Komentar
+### Gib der Änderung einen Kommentar
 ## git push
-### gib die änderung weiter
+### Gib die Änderung an GitHub
